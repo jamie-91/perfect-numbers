@@ -35,20 +35,24 @@ namespace PerfectNumbers
             //iterate through values between boundaries
             for (int i = lowBound; i <= uppBound; i++)
             {
-                int result = 0;
-                //iterate though possible divisors (no divisors can be found after value / 2)
-                for (int j = 1; j <= i/2; j++)
+                //As the known perfect numbers all end in 6 or 28, only run the check for numbers ending in 6 or 8
+                if (i % 10 == 6 || i % 100 == 28)
                 {
-                    //if j is divisor of i, add it to the result
-                    if (i % j == 0)
+                    int result = 0;
+                    //iterate though possible divisors (no divisors can be found after value / 2)
+                    for (int j = 1; j <= i / 2; j++)
                     {
-                        result += j;
+                        //if j is divisor of i, add it to the result
+                        if (i % j == 0)
+                        {
+                            result += j;
+                        }
                     }
-                }
-                //if result equals original value, then value is a perfect number
-                if (result == i)
-                {
-                    perfectNumbers.Add(result);
+                    //if result equals original value, then value is a perfect number
+                    if (result == i)
+                    {
+                        perfectNumbers.Add(result);
+                    }
                 }
             }
 
