@@ -4,3 +4,10 @@ c:\users\user\documents\visual studio 2015\Projects\PerfectNumbers\PerfectNumber
 c:\users\user\documents\visual studio 2015\Projects\PerfectNumbers\PerfectNumbers\obj\Debug\PerfectNumbers.csprojResolveAssemblyReference.cache
 c:\users\user\documents\visual studio 2015\Projects\PerfectNumbers\PerfectNumbers\obj\Debug\PerfectNumbers.exe
 c:\users\user\documents\visual studio 2015\Projects\PerfectNumbers\PerfectNumbers\obj\Debug\PerfectNumbers.pdb
+C:\Users\JamieWarren\Source\Repos\jamie-91\perfect-numbers\PerfectNumbers\PerfectNumbers\bin\Debug\PerfectNumbers.exe.config
+C:\Users\JamieWarren\Source\Repos\jamie-91\perfect-numbers\PerfectNumbers\PerfectNumbers\bin\Debug\PerfectNumbers.exe
+C:\Users\JamieWarren\Source\Repos\jamie-91\perfect-numbers\PerfectNumbers\PerfectNumbers\bin\Debug\PerfectNumbers.pdb
+C:\Users\JamieWarren\Source\Repos\jamie-91\perfect-numbers\PerfectNumbers\PerfectNumbers\obj\Debug\PerfectNumbers.csprojAssemblyReference.cache
+C:\Users\JamieWarren\Source\Repos\jamie-91\perfect-numbers\PerfectNumbers\PerfectNumbers\obj\Debug\PerfectNumbers.csproj.CoreCompileInputs.cache
+C:\Users\JamieWarren\Source\Repos\jamie-91\perfect-numbers\PerfectNumbers\PerfectNumbers\obj\Debug\PerfectNumbers.exe
+C:\Users\JamieWarren\Source\Repos\jamie-91\perfect-numbers\PerfectNumbers\PerfectNumbers\obj\Debug\PerfectNumbers.pdb
